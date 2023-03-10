@@ -1,6 +1,8 @@
 ### Hi there 👋, must complete this area yet :D
 <img src="https://raw.githubusercontent.com/javierleandromontenegro/javierleandromontenegro/main/javiergif.gif"/>
 
+<h1>Connect with me</h1>
+
 <!--
 **nicovon24/nicovon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
