@@ -1,4 +1,4 @@
-### Hi there 👋, must complete this area :D
+### Hi there 👋, must complete this area yet :D
 
 <!--
 **nicovon24/nicovon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
