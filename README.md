@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/javierleandromontenegro/javierleandromontenegro/main/javiergif.gif"/>
 
 <h2>Connect with me</h2>
-<a>nicovon24@gmail.com</a>
+<a>nicovon24@gmail.com</a><br/>
 <a href="https://www.linkedin.com/in/nicolas-von-muhlinen/">Nicolás Von Muhlinen</a>
 
 <!--
