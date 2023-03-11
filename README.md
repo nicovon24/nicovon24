@@ -1,8 +1,5 @@
 ### Hi there 👋, must complete this area yet :D
 
-<h2>Connect with me</h2>
-<a>nicovon24@gmail.com</a><br/>
-
 <!--
 **nicovon24/nicovon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
