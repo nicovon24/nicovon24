@@ -3,7 +3,7 @@
 
 <h2>Connect with me</h2>
 <a>nicovon24@gmail.com</a><br/>
-<i class="fa-solid fa-user"></i><a href="https://www.linkedin.com/in/nicolas-von-muhlinen/">Nicolás Von Muhlinen</a>
+<i class="fa-solid fa-user"></i>
 
 <!--
 **nicovon24/nicovon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
