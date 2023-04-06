@@ -17,6 +17,23 @@
       <li>Menta granizada & dulce de leche</li>
     </ul>
   </div>
+  
+  ````js
+  const nicovon24 = {
+    pronouns: 'he' || 'him',
+    code: {
+      languages: [ "JavaScript" ],
+      database: [ "PostgreSQL" ],
+      backEnd: [ "NodeJs", "Express", "Sequelize" ],
+      frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
+      deploy: [ "Vercel", "Railway" ],
+      comingSoon: [ "Mongo DB", "C#" ]
+    },
+    contact: {
+      email: "nicovon24@gmail.com"
+    }
+  };
+  ```
 
   <!--Technologies-->
   <div>
