@@ -10,6 +10,12 @@
     <h3>💫About me:</h3>
     <hr></hr>
     <p>I am a full-stack developer with a keen interest on back-end development. My passion lies in solving complex problems through logic and critical thinking. My ability to work collaboratively in a team environment, while also being self-motivated and proactive, enables me to consistently deliver high-quality code that meets client needs.</p>
+    <h3>I like</h3>
+    <ul>
+      <li>Sports</li>
+      <li>Summer</li>
+      <li>Menta granizada & dulce de leche</li>
+    </ul>
   </div>
 
   <!--Technologies-->
