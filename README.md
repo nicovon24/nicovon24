@@ -1,4 +1,4 @@
-<h2>About me</h2>
+<h3>About me</h3>
 <hr></hr>
 
 <!--
