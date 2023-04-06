@@ -18,7 +18,7 @@
     </ul>
   </div>
   
-  ````js
+  ```js
   const nicovon24 = {
     pronouns: 'he' || 'him',
     code: {
