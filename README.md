@@ -2,7 +2,7 @@
   <!--Introduction-->
   <div>
     <h1>Hello 👋! Here, Nicolás</h1>
-    <h3>Córdoba, Argentina 🌎</h2>
+    <h4>Córdoba, Argentina 🌎</h4>
   </div>
 
   <!--About me-->
