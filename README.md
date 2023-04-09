@@ -25,10 +25,10 @@
     code: {
       languages: [ "JavaScript" ],
       database: [ "PostgreSQL" ],
-      backEnd: [ "NodeJs", "Express", "Sequelize" ],
+      backEnd: [ "NodeJs", "Express", "Sequelize", "Mongo DB", "C#" ],
       frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
       deploy: [ "Vercel", "Railway" ],
-      comingSoon: [ "Mongo DB", "C#" ]
+      comingSoon: [ "Mongoose", ".Net" ]
     },
     contact: {
       email: "nicovon24@gmail.com"
