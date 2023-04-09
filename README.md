@@ -3,6 +3,7 @@
   <div>
     <h1>Hello 👋! Here, Nicolás</h1>
     <h4>Córdoba, Argentina 🌎</h4>
+    <img src="https://res.cloudinary.com/dmnkfkrtt/image/upload/v1681073038/Nicol%C3%A1s_von_m%C3%BChlinen_1_o6pcb1.png" alt="fondo"/>
   </div>
 
   <!--About me-->
