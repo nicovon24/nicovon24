@@ -35,6 +35,9 @@
     }
   };
   ```
+  
+  <br/>
+  <br/>
 
 
    <!--Technologies-->
@@ -73,6 +76,9 @@
       </div>
   </div>
   
+  <br/>
+  <br/>
+  
    <!--Languages-->
    <div>
     <h3>Languages:</h3>
@@ -81,6 +87,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" width="50" height="30" alt="english"/>
     <img src="https://www.worldatlas.com/img/flag/pt-flag.jpg" width="50" height="30" alt="portuguese"/>
    </div>
+   
+   <br/>
+   <br/>
       
   
   <div class="flex">
