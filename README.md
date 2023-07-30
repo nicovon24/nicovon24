@@ -10,7 +10,7 @@
   <div>
     <h3>💫About me:</h3>
     <hr></hr>
-    <p>I am a full-stack developer with a keen interest on back-end development. My passion lies in solving complex problems through logic and critical thinking. My ability to work collaboratively in a team environment, while also being self-motivated and proactive, enables me to consistently deliver high-quality code that meets client needs.</p>
+    <p>I am a front-end developer with extensive knowledges in backend development. My passion lies in creating user-friendly applications. My ability to work collaboratively in a team environment, while also being self-motivated and proactive, enables me to consistently deliver high-quality code that meets client needs.</p>
     <h3>I like</h3>
     <ul>
       <li>Sports</li>
@@ -23,12 +23,12 @@
   const nicovon24 = {
     pronouns: 'he' || 'him',
     code: {
-      languages: [ "JavaScript" ],
-      database: [ "PostgreSQL" ],
-      backEnd: [ "NodeJs", "Express", "Sequelize", "Mongo DB", "C#" ],
-      frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
+      languages: [ "JavaScript", "Typescript" ],
+      database: [ "PostgreSQL", "Mongo DB" ],
+      backEnd: [ "NodeJs", "Express", "C#", "Sequelize", "Mongoose" ],
+      frontEnd: [ "Next.js", "React", "Redux", "Hooks", "Tailwind CSS", "HTML", "CSS" ],
       deploy: [ "Vercel", "Railway" ],
-      comingSoon: [ "Mongoose", ".Net" ]
+      comingSoon: [ "React Native" ]
     },
     contact: {
       email: "nicovon24@gmail.com"
@@ -44,6 +44,15 @@
   <div>
     <h3>Tech stack:</h3>
     <hr></hr>
+    <!--Front-end-->
+    <div class="flex">
+          <h4>Front-end</h4>
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" alt="js"/>
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=blue" alt="react"/>
+          <img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux"/>
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+        </div>
+    </div>
     <div class="flex flex-wrap">
       <!--Back-end-->
       <div class="flex">
@@ -53,16 +62,6 @@
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize"/>
         <img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="postgres"/>
         <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon"/>    
-  </div>
-  
-  <!--Front-end-->
-  <div class="flex">
-        <h4>Front-end</h4>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" alt="js"/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=blue" alt="react"/>
-        <img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux"/>
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-      </div>
   </div>
   
   <!--Software and tools-->
