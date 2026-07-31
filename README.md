@@ -10,7 +10,7 @@
   <div>
     <h3>💫About me:</h3>
     <hr></hr>
-    <p>I am a front-end developer with extensive knowledges in backend development. My passion lies in creating user-friendly applications. My ability to work collaboratively in a team environment, while also being self-motivated and proactive, enables me to consistently deliver high-quality code that meets client needs.</p>
+    <p>I am a full stack developer with +3 years experience. My passion lies in creating user-friendly applications. My ability to work collaboratively in a team environment, while also being self-motivated and proactive, enables me to consistently deliver high-quality code that meets client needs.</p>
     <h3>I like</h3>
     <ul>
       <li>Sports</li>
